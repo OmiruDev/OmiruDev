@@ -1,8 +1,8 @@
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/fddcdbcd-5ea2-4416-9f59-ca7fd9394aca" width="300" />
-</div>
-
 <h1> Hey <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" /> What's up?</h1>
+
+<div align="left">
+  <img src="https://github.com/user-attachments/assets/fddcdbcd-5ea2-4416-9f59-ca7fd9394aca" width="200" />
+</div>
 
 <p> My name is Omiru and I'm an AI Undergraduate Student, from 🇱🇰 <b>Sri Lanka</b>.</p>
 
